@@ -1,0 +1,8 @@
+spring:
+  mail:
+    #QQ邮箱服务器地址
+    host: smtp.qq.com
+    #刚刚的授权码
+    password: tjpwogliyXXXXX
+    #授权码对应的邮箱账号
+    username: 3577XXXXX@qq.com
