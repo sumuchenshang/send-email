@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SendEmailApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SendMail.class, args);
+        SpringApplication.run(SendEmailApplication.class, args);
     }
 
 }
